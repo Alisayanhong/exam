@@ -2,10 +2,11 @@ body{
 	padding-top: 50px;/*添加固定高度*/
 	/**/
 }
-.h1, h1 {
+.h1, h1 ,span{
     font-size: 36px;
     font-family: "宋体";
 }
+
 .sidebar {
   display: none;
 }
